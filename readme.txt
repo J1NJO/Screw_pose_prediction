@@ -1,7 +1,7 @@
 ##Requires docker to run##
-- Extract the zip file.
 - Execute the following steps in terminal
-	- cd into Rishabh_project
+	- cd into Screw_pose_prediction_folder
+	- Edit the docker yaml file and edit the address of the folder location
 	- Execute: docker compose build, takes ~30 mins to  build
 	- Execute: docker compose up
 
